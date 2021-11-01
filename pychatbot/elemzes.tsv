@@ -1,0 +1,6 @@
+form	wsafter	anas	lemma	xpostag
+szia	" "	[{"lemma": "szia", "tag": "[/Inj-Utt]", "morphana": "szia[/Inj-Utt]=szia", "readable": "szia[/Inj-Utt]", "twolevel": "s:s z:z i:i a:a :[/Inj-Utt]"}, {"lemma": "szia", "tag": "[/N][Nom]", "morphana": "szia[/N]=szia+[Nom]=", "readable": "szia[/N] + [Nom]", "twolevel": "s:s z:z i:i a:a :[/N] :[Nom]"}]	szia	[/N][Nom]
+tudnál	" "	[{"lemma": "tud", "tag": "[/V][Cond.NDef.2Sg]", "morphana": "tud[/V]=tud+nál[Cond.NDef.2Sg]=nál", "readable": "tud[/V] + nál[Cond.NDef.2Sg]", "twolevel": "t:t u:u d:d :[/V] n:n á:á l:l :[Cond.NDef.2Sg]"}]	tud	[/V][Cond.NDef.2Sg]
+segíteni	""	[{"lemma": "segít", "tag": "[/V][Inf]", "morphana": "segít[/V]=segít+eni[Inf]=eni", "readable": "segít[/V] + eni[Inf]", "twolevel": "s:s e:e g:g í:í t:t :[/V] e:e n:n i:i :[Inf]"}]	segít	[/V][Inf]
+?	""	[{"lemma": "?", "tag": "[Punct]", "morphana": "", "readable": "", "twolevel": ""}]	?	[Punct]
+

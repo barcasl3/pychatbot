@@ -1,0 +1,6 @@
+INTENT_KOSZONTESKEZDES = "koszontes_kezdes"
+INTENT_LEZARAS = "lezaras"
+INTENT_LEZARASELKOSZONES = "lezaras_elkoszones"
+INTENT_SZOLGALTATAS_AR = "szolgaltatas_ar"
+INTENT_SZOLGALTATAS_INFORMACIO = "szolgaltatas_informacio"
+INTENT_SZOLGALTATAS_RENDELES = "szolgaltatas_rendeles"
